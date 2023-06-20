@@ -1,0 +1,1 @@
+# maui-collectionview-width
